@@ -14,35 +14,35 @@ Here is a list of modules, divided into phases of a real penetration test:
 8. Introduction to Web Applications
 9. Web Requests
 ### Reconnaissance, Enumeration & Attack Planning
-9. Network Enumeration with NMAP
-10. Footprinting
-11. Information Gathering - Web Addition
-12. Vulnerability Assessment
-13. File Transfers
-14. Shells & Payloads
-15. Using the Metasploit Framework
+10. Network Enumeration with NMAP
+11. Footprinting
+12. Information Gathering - Web Addition
+13. Vulnerability Assessment
+14. File Transfers
+15. Shells & Payloads
+16. Using the Metasploit Framework
 ### Exploitation & Lateral Movement
-16. Password Attacks
-17. Attacking Common Services
-18. Pivoting, Tunneling, and Port Forwarding
-19. Active Directory Enumeration & Attacks
+17. Password Attacks
+18. Attacking Common Services
+19. Pivoting, Tunneling, and Port Forwarding
+20. Active Directory Enumeration & Attacks
 ### Web Exploitation 
-20. Using Web Proxies
-21. Attacking Web Applications with Ffuf
-22. Login Brute Forcing 
-23. SQL Injection Fundamentals
-24. SQLMap Essentials
-25. Cross-Site Scripting (XSS)
-26. File Inclusion
-27. File Upload Attacks
-28. Command Injections
-29. Web Attacks
-30. Attacking Common Applications
+21. Using Web Proxies
+22. Attacking Web Applications with Ffuf
+23. Login Brute Forcing 
+24. SQL Injection Fundamentals
+25. SQLMap Essentials
+26. Cross-Site Scripting (XSS)
+27. File Inclusion
+28. File Upload Attacks
+29. Command Injections
+30. Web Attacks
+31. Attacking Common Applications
 ### Post-Exploitation
-31. Linux Privilege Escalation
-32. Windows Privilege Escalation
+32. Linux Privilege Escalation
+33. Windows Privilege Escalation
 ### Reporting & Capstone
-33. Documentation & Reporting
-34. Attacking Enterprise Networks
+34. Documentation & Reporting
+35. Attacking Enterprise Networks
 
 This path can be adjusted according to your level of knowledge and previous experience. If you are a complete beginner, I think that this path is just for you. If you are an advanced specialist, you can skip some introduction modules where necessary. Also, if you conduct a black box pentest, then you can swap Exploitation & Lateral Movement and Web Attacks modules, as in black box pentest you only have some IP addresses, domains and usually you start by testing web application and exploiting vulnerabilities there, which then, will give you access to the internal part (Active Directory as an example)
