@@ -77,3 +77,36 @@ user.txt = b5764f51d0751ea57d039a60332e14bc
 After some enumeration I found that there is '.git' folder in 'apps' directory and another user - prod
 <!--⚠️Imgur upload failed, check dev console-->
 ![[Attachments/Pasted image 20240801113708.png]]
+So we found some interesting files inside .git directory, and here is what they look like:
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801114000.png]]
+If we look closely we can notice that one commit is somehow connected to 'prod'
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801114422.png]]
+And we have found 'prod's' creds
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801114457.png]]
+```
+username: prod
+password: 080217_Producti0n_2023!@
+```
+
+So let's ssh as 'prod' with this password:
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801114632.png]]
+And now let's see if we can perform some commands as root:
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801114734.png]]
+it can run some script with root privilege. So this can be our way to get our flag.
+After a bit of search for the exploit for this i was able to find few resources which can help us get the root flag.
+So we basically  we can run git-remote-ext command as a root user with the the help of that script. However all my attempts got no luck
+So I decided after some tries to directly copy the root flag to the prod user with the help of above commands just like this:
+
+<!--⚠️Imgur upload failed, check dev console-->
+![[Attachments/Pasted image 20240801115004.png]]
+So we have our root flag
+```
+root.txt = 65a984a46fc563091c62e7192bb5d841
+```
+
+And that's it. We Pwned Editorial!
