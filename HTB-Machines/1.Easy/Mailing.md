@@ -97,7 +97,7 @@ ff02::2    ip6-allrouters
 ```
 
 Let's now see the webpage:
-<!--⚠️Imgur upload failed, check dev console-->
-![[Attachments/Screenshot 2024-08-02 122723.png]]
+![](https://i.imgur.com/F9vXJzV.jpeg)
+
 We can say that this looks like a mail server with some additional info and download instructions button at the bottom of the page
 let's see what it is about:
