@@ -1,7 +1,7 @@
 # Ultimate-CPTS-Walkthrough
 This repository will encompass all Hack The Box Academy modules of "Certified Penetration Testing Specialist" job role path. 
 Here you will find everything that will help you to ace your CPTS exam, including all walkthroughs of all modules, all skills assessments, as well as some tips and most useful commands and techniques which I use myself. 
-Although the HTB CPTS job role path consists of 28 modules, but I also included some additional ones, which in my opinion will help to get better understanding of the whole process and cover all topics. 
+Although the HTB CPTS job role path consists of 28 modules, I also included some additional ones, which in my opinion will help get better understanding of the whole process and cover all topics. 
 Here is what a layout of modules looks like, divided into phases of a real penetration test:
 ### Introduction & General Knowledge:
 1. Penetration Testing Process
