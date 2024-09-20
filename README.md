@@ -5,7 +5,7 @@ Although the HTB CPTS job role path consists of 28 modules, I also included some
 Here is what a layout of modules looks like, divided into phases of a real penetration test:
 ### Introduction & General Knowledge:
 1. Penetration Testing Process
-2. [Getting Started](/HTB-Academy/Getting%20Started.md) 
+2. [0.2%20Getting Started](/HTB-Academy/Getting%20Started.md) 
 3. Introduction to Networking
 4. Linux Fundamentals
 5. Windows Fundamentals
