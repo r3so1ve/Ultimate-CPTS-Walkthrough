@@ -24,7 +24,7 @@ Here is what a layout of modules looks like, divided into phases of a real penet
 ### Exploitation & Lateral Movement
 17. [Password Attacks](/HTB-Academy/17.%20Password%20Attacks.md)
 18. [Attacking Common Services](/HTB-Academy/18.%20Attacking%20Common%20Services.md)
-19. [Pivoting, Tunneling, and Port Forwarding](/HTB-Academy/19.%20Pivoting,%20Tunneling,%20and%20Port%20Forwarding.md)
+19. [Pivoting, Tunneling, and Port Forwarding](/HTB-Academy/19.%20Pivoting%20Tunneling,%20and%20Port%20Forwarding.md)
 20. [Active Directory Enumeration & Attacks](/HTB-Academy/20.%20Active%20Directory%20Enumeration%20&%20Attacks.md)
 ### Web Exploitation 
 21. Using Web Proxies
