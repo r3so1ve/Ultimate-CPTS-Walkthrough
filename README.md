@@ -7,12 +7,12 @@ Here is what a layout of modules looks like, divided into phases of a real penet
 1. [Penetration Testing Process](/HTB-Academy/01.%20Penetration%20Testing%20Process.md) 
 2. [Getting Started](/HTB-Academy/02.%20Getting%20Started.md) 
 3. [Introduction to Networking](/HTB-Academy/03.%20Introduction%20to%20Networking.md)
-4. Linux Fundamentals
-5. Windows Fundamentals
-6. Introduction to Windows CLI
-7. Introduction to Active Directory
-8. Introduction to Web Applications
-9. Web Requests
+4. [Linux Fundamentals](/HTB-Academy/04.%20Linux%20Fundamentals.md)
+5. [Windows Fundamentals](/HTB-Academy/05.%20Windows%20Fundamentals.md)
+6. [Introduction to Windows CLI](/HTB-Academy/06.%20Introduction%20to%20Windows%20CLI.md)
+7. [Introduction to Active Directory](/HTB-Academy/07.%20Introduction%20to%20Active%20Directory.md)
+8. [Introduction to Web Applications](/HTB-Academy/08.%20Introduction%20to%20Web%20Applications.md)
+9. [Web Requests](/HTB-Academy/08.%20Web%20Requests.md)
 ### Reconnaissance, Enumeration & Attack Planning
 10. Network Enumeration with NMAP
 11. Footprinting
