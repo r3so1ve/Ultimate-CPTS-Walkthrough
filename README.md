@@ -14,13 +14,13 @@ Here is what a layout of modules looks like, divided into phases of a real penet
 8. [Introduction to Web Applications](/HTB-Academy/08.%20Introduction%20to%20Web%20Applications.md)
 9. [Web Requests](/HTB-Academy/09.%20Web%20Requests.md)
 ### Reconnaissance, Enumeration & Attack Planning
-10. Network Enumeration with NMAP
-11. Footprinting
-12. Information Gathering - Web Addition
-13. Vulnerability Assessment
-14. File Transfers
-15. Shells & Payloads
-16. Using the Metasploit Framework
+10. [Network Enumeration with NMAP](/HTB-Academy/10.%20Network%20Enumeration%20with%20NMAP.md)
+11. [Footprinting](/HTB-Academy/11.%20Footprinting.md)
+12. [Information Gathering - Web Addition](/HTB-Academy/12.%20Information%20Gathering%20-%20Web%20Addition.md)
+13. [File Transfers](/HTB-Academy/13.%20File%20Transfers.md)
+14. [Vulnerability Assessment](/HTB-Academy/14.%20Vulnerability%20Assessment.md)
+15. [Shells & Payloads](/HTB-Academy/15.%20Shells%20&%20Payloads.md)
+16. [Using the Metasploit Framework](/HTB-Academy/16.%20Using%20the%20Metasploit%20Framework.md)
 ### Exploitation & Lateral Movement
 17. Password Attacks
 18. Attacking Common Services
