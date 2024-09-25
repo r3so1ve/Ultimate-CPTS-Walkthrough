@@ -27,22 +27,22 @@ Here is what a layout of modules looks like, divided into phases of a real penet
 19. [Pivoting, Tunneling, and Port Forwarding](/HTB-Academy/19.%20Pivoting%20Tunneling,%20and%20Port%20Forwarding.md)
 20. [Active Directory Enumeration & Attacks](/HTB-Academy/20.%20Active%20Directory%20Enumeration%20&%20Attacks.md)
 ### Web Exploitation 
-21. Using Web Proxies
-22. Attacking Web Applications with Ffuf
-23. Login Brute Forcing 
-24. SQL Injection Fundamentals
-25. SQLMap Essentials
-26. Cross-Site Scripting (XSS)
-27. File Inclusion
-28. File Upload Attacks
-29. Command Injections
-30. Web Attacks
-31. Attacking Common Applications
+21. [Using Web Proxies](/HTB-Academy/21.%20Using%20Web%20Proxies.md)
+22. [Attacking Web Applications with Ffuf](/HTB-Academy/22.%20Attacking%20Web%20Applications%20with%20Ffuf.md)
+23. [Login Brute Forcing](/HTB-Academy/23.%20Login%20Brute%20Forcing.md) 
+24. [SQL Injection Fundamentals](/HTB-Academy/24.%20SQL%20Injection%20Fundamentals.md) 
+25. [SQLMap Essentials](/HTB-Academy/25.%20SQLMap%20Essentials.md) 
+26. [Cross-Site Scripting (XSS)](/HTB-Academy/26.%20Cross-Site%20Scripting%20(XSS).md) 
+27. [File Inclusion](/HTB-Academy/27.%20File%20Inclusion.md) 
+28. [File Upload Attacks](/HTB-Academy/28.%20File%20Upload%20Attacks.md) 
+29. [Command Injections](/HTB-Academy/29.%20Command%20Injections.md) 
+30. [Web Attacks](/HTB-Academy/30.%20Web%20Attacks.md) 
+31. [Attacking Common Applications](/HTB-Academy/31.%20Attacking%20Common%20Applications.md) 
 ### Post-Exploitation
-32. Linux Privilege Escalation
-33. Windows Privilege Escalation
+32. [Linux Privilege Escalation](/HTB-Academy/32.%20Linux%20Privilege%20Escalation.md) 
+33. [Windows Privilege Escalation](/HTB-Academy/33.%20Windows%20Privilege%20Escalation.md) 
 ### Reporting & Capstone
-34. Documentation & Reporting
-35. Attacking Enterprise Networks
+34. [Documentation & Reporting](/HTB-Academy/34.%20Documentation%20&%20Reporting.md) 
+35. [Attacking Enterprise Networks](/HTB-Academy/35.%20Attacking%20Enterprise%20Networks.md) 
 
 This path can be adjusted according to your level of knowledge and previous experience. If you are a complete beginner, I think that this path is just for you. If you are an advanced specialist, you can skip some introduction modules where necessary. Also, if you conduct a black box pentest, then you can swap Exploitation & Lateral Movement and Web Attacks modules, as in black box pentest you only have some IP addresses, domains and usually you start by testing web application and exploiting vulnerabilities there, which then, will give you access to the internal part (Active Directory as an example)
