@@ -39,7 +39,7 @@ The layout of the modules is divided into key phases of a real-world penetration
 24. [SQL Injection Fundamentals](/HTB-Academy/24.%20SQL%20Injection%20Fundamentals.md) 
 25. [SQLMap Essentials](/HTB-Academy/25.%20SQLMap%20Essentials.md) 
 26. [Cross-Site Scripting (XSS)](/HTB-Academy/26.%20Cross-Site%20Scripting%20(XSS).md) 
-27. [File Inclusion](/HTB-Academy/27.%20File%20Inclusion) 
+27. [File Inclusion](/HTB-Academy/27.%20File%20Inclusion.md) 
 28. [File Upload Attacks](/HTB-Academy/28.%20File%20Upload%20Attacks.md) 
 29. [Command Injections](/HTB-Academy/29.%20Command%20Injections.md) 
 30. [Web Attacks](/HTB-Academy/30.%20Web%20Attacks.md) 
