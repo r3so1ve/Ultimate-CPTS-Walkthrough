@@ -64,4 +64,5 @@ This walkthrough is perfect for:
 
 If you're ready to start, check out the individual module walkthroughs linked above. Whether you're preparing for the CPTS certification, improving your pentesting skills, or just exploring the Hack The Box Academy, this guide will have everything you need! Happy Hacking ;)
 
+## The work is in progress, so please be patient) Every module will have a complete walkthrough soon ;)
 
