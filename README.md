@@ -1,3 +1,5 @@
+![](https://i.imgur.com/Hn2ouND.png)
+
 # Ultimate-CPTS-Walkthrough: Complete Guide for Hack The Box Academy's Certified Penetration Testing Specialist Job Role Path
 This repository contains all Hack The Box Academy modules for the Certified Penetration Testing Specialist (CPTS) job role path. It is designed to help you successfully pass the CPTS exam by providing walkthroughs for all modules, detailed skills assessments, and additional tips, commands, and techniques that I personally use.
 
